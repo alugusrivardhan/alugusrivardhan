@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **alugusrivardhan43@gmail.com**
+- I'm looking to collaborate on exciting software development projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
