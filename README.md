@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **web development**
-🔭 I’m currently working on enhancing web applications with modern technologies.<br><br>👯 I’m looking to collaborate on exciting software development projects.<br><br>🤝
+🔭 I’m currently working on enhancing web applications with modern technologies.
+-I’m looking to collaborate on exciting software development projects.
 - 📫 How to reach me **alugusrivardhan43@gmail.com**
-- I'm looking to collaborate on exciting software development projects
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sri-vardhan-alugu-683688357/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivardhan-alugu" height="30" width="40" /></a>
