@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **web development**
-🔭 I’m currently working on enhancing web applications with modern technologies.
--I’m looking to collaborate on exciting software development projects.
+- 🌱 I’m currently learning **web development**<br>
+🔭 I’m currently working on enhancing web applications with modern technologies.<br>
+-I’m looking to collaborate on exciting software development projects.<br>
 - 📫 How to reach me **alugusrivardhan43@gmail.com**
 - 
 <h3 align="left">Connect with me:</h3>
