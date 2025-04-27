@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm alugusrivardhan</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
+# 💫 About Me:
 - 🌱 I’m currently learning **web development**
-
+🔭 I’m currently working on enhancing web applications with modern technologies.<br><br>👯 I’m looking to collaborate on exciting software development projects.<br><br>🤝
 - 📫 How to reach me **alugusrivardhan43@gmail.com**
 - I'm looking to collaborate on exciting software development projects
 
