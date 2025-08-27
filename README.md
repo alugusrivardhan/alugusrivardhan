@@ -1,7 +1,14 @@
-# 💫 About Me:
-🌱 I’m currently learning **Web Development**  
-🔭 Working on enhancing web applications with modern technologies  
-🤝 Open to collaborating on exciting software development projects  
+💫 About Me
+
+🌱 I’m currently learning Web Development
+
+🔭 Working on enhancing web applications with modern technologies
+
+🤝 Open to collaborating on exciting software development projects
+
+💡 Passionate about problem-solving, algorithms, and clean code
+
+📚 Exploring Data Structures, Algorithms, and System Design
 
 ---
 
